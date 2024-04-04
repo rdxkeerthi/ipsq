@@ -844,7 +844,7 @@ var IE10_POINTER_TYPE_ENUM = {
     2: INPUT_TYPE_TOUCH,
     3: INPUT_TYPE_PEN,
     4: INPUT_TYPE_MOUSE,
-    5: INPUT_TYPE_KINECT // see https://twitter.com/jacobrossi/status/480596438489890816
+    5: INPUT_TYPE_KINECT 
 };
 
 var POINTER_ELEMENT_EVENTS = 'pointerdown';
